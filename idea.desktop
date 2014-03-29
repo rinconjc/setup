@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=IntelliJ Idea
+Comment=
+Exec=/opt/idea/bin/idea.sh
+Icon=/opt/idea/bin/idea.png
+Terminal=false
+Type=Application
+StartupNotify=true
+
